@@ -11,7 +11,7 @@ public class UTXO  {
 
 
 
-    public String MintTOken(int amount, String tokenname){
+    public String MintToken(int amount, String tokenname){
        //존재하는 토큰 여부
         return null;
     }
